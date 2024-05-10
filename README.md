@@ -16,6 +16,8 @@ Also note that this is only for local tmux. It has nothing to do with re-attachi
 * tmns         : reminder of how to create a new session
 * tmnw <window>: create a new window in the current session
 
+This no-frills package was inspired by tmux-session in github [mislav/dotfiles](https://github.com/mislav/dotfiles/tree/d2af5900fce38238d1202aa43e7332b20add6205).  See also github [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) and links therein.
+
 # How to install
 
 Put file `tmux.py` in your $HOME directory
